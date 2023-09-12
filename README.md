@@ -6,7 +6,7 @@
 - 
 <div>
   <a href="https://beacons.ai/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Erudado&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Erudado&show_icons=true&theme=red&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erudado&layout=compact&langs_count=16&theme=dark"/>
 </div>
     
