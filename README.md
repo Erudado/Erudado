@@ -1,5 +1,5 @@
 ## 
-Hello, World! Eu sou o Eduardo Silva👋
+### Hello, World! Eu me chamo Eduardo Silva👋
 
 - 🌱 Estudando JavaScript
 - 🏫 Cursando Técnico em Desenvolvimento de Sistemas 
