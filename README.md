@@ -24,4 +24,4 @@
 </div>
 
 ##
-![Snake animation](https://github.com/Erudado/Erudado/blob/output/github-contribution-grid-snake.svg)
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifs.alphacoders.com%2Fby_sub_category%2F173190&psig=AOvVaw0EybbyckDysd89n0FloWmv&ust=1694642612693000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNDHxOCJpoEDFQAAAAAdAAAAABAE
